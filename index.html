@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gemini Battle Arena</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      /* Custom animations for battle effects */
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-5px) rotate(-5deg); }
+        75% { transform: translateX(5px) rotate(5deg); }
+      }
+      .animate-shake {
+        animation: shake 0.4s ease-in-out;
+      }
+      @keyframes flash-red {
+        0%, 100% { filter: none; }
+        50% { filter: sepia(1) saturate(5) hue-rotate(-50deg); }
+      }
+      .animate-damage {
+        animation: flash-red 0.3s ease-in-out;
+      }
+      @keyframes attack-lunge {
+        0% { transform: translateX(0); }
+        50% { transform: translateX(30px) translateY(-10px); }
+        100% { transform: translateX(0); }
+      }
+      .animate-attack-right {
+        animation: attack-lunge 0.3s ease-in-out;
+      }
+      @keyframes attack-lunge-left {
+        0% { transform: translateX(0); }
+        50% { transform: translateX(-30px) translateY(10px); }
+        100% { transform: translateX(0); }
+      }
+      .animate-attack-left {
+        animation: attack-lunge-left 0.3s ease-in-out;
+      }
+      @keyframes faint {
+        0% { opacity: 1; transform: translateY(0); }
+        100% { opacity: 0; transform: translateY(30px); }
+      }
+      .animate-faint {
+        animation: faint 1s forwards;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://esm.sh/@google/genai@^1.38.0",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/"
+  }
+}
+</script>
+</head>
+  <body class="bg-gray-900 text-white h-screen overflow-hidden">
+    <div id="root" class="h-full w-full"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

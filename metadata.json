@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Battle Arena",
+  "description": "A turn-based Pokémon-style battle game where you fight against an AI opponent powered by Google Gemini. Choose your monster, plan your moves, and become the champion!",
+  "requestFramePermissions": []
+}
