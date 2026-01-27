@@ -1,0 +1,19 @@
+{
+  "move_id": "hellfire_eruption",
+  "name": "Hellfire",
+  "type": "Fire",
+  "category": "Special",
+  "power": 100,
+  "accuracy": 85,
+  "pp": 5,
+  "effect": {
+    "status_type": "Burn",
+    "chance": 100,
+    "duration": 5,
+    "is_volatile": false,
+    "description": "Engulfs the target in cursed flames that deal damage every turn and reduce physical attack power."
+  },
+  "visualPrompt": "Cinematic low-angle shot, ground-level perspective. The earth shatters as a massive pillar of violet and obsidian-tinted flames erupts upwards. Features hyper-realistic fluid simulation, volumetric sulfurous smoke, and bright orange ember sparks. High-contrast lighting with heavy bloom and heat distortion effects. The animation is centered on screen, isolated on a solid pitch-black background for easy alpha-blending, 8k resolution, Unreal Engine 5 aesthetic.",
+  "secondaryEffectPrompt": "Aura of lingering dark purple wisps and flickering black flames clinging to the target's silhouette. Subdued heat distortion and occasional pops of bright violet cinders. The effect pulses rhythmically, isolated on a black background for transparency layering.",
+  "timestamp": 1769530556740
+}
