@@ -1,0 +1,20 @@
+{
+  "move_id": "dark_bite_8bit",
+  "name": "咬咬",
+  "type": "Dark",
+  "category": "Physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": {
+    "status_type": "Flinch",
+    "chance": 0.3,
+    "duration": 1,
+    "is_volatile": true,
+    "description": "A sharp biting attack that has a 30% chance to make the target flinch for 1 turn."
+  },
+  "skillVisualPrompt": "8-bit pixel art animation of two jagged, dark-purple energy jaws snapping shut from top and bottom. Sharp white diagonal impact lines and yellow rectangular sparks explode at the center of the bite. Pure VFX animation on a solid pure green screen background (Hex: #00FF00). No characters, no hands.",
+  "statusVisualPrompt": "8-bit pixel art looping animation of three rotating yellow four-pointed stars and white swirling dizzy lines. The stars bob up and down slightly in a rhythmic pattern. Isolated effect on a solid pure green screen background (Hex: #00FF00). No characters.",
+  "status_vfx_id": "flinch_stars_loop",
+  "timestamp": 1769533300268
+}
