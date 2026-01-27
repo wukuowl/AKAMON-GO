@@ -1,0 +1,19 @@
+{
+  "move_id": "claw_attack_slash",
+  "name": "爪子攻擊",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": {
+    "status_type": "Bleeding",
+    "chance": 20,
+    "duration": 3,
+    "is_volatile": true,
+    "description": "The user slashes the target with sharp claws, dealing physical damage. There is a 20% chance to inflict Bleeding for 3 turns."
+  },
+  "skillVisualPrompt": "8-bit pixel art animation on a solid pure green screen background (Hex: #00FF00). Three white diagonal slash lines appear suddenly across the center of the screen, followed by bright yellow and orange pixel sparks at the impact points. The slashes fade quickly with a retro motion blur effect.",
+  "statusVisualPrompt": "8-bit pixel art animation on a solid pure green screen background (Hex: #00FF00). Small, bright red pixel droplets pulsing and falling slowly from the character's mid-section to represent a bleeding effect.",
+  "timestamp": 1769532324906
+}
