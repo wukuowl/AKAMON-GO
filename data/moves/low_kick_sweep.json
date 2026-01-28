@@ -1,0 +1,18 @@
+{
+  "move_id": "low_kick_sweep",
+  "name": "Low Kick",
+  "type": "Fighting",
+  "category": "Physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": {
+    "status_type": "none",
+    "chance": 0,
+    "duration": 0,
+    "is_volatile": false,
+    "description": "A swift, low-level strike aimed at the opponent's legs to cause a stumble."
+  },
+  "skillVisualPrompt": "8-bit pixel art. A sharp, horizontal white and yellow energy arc flashes across the bottom of the frame. Instant impact sparks composed of orange and white square pixels explode at the center. Quick burst, rapid animation, sudden movement. Solid pure green screen background (Hex: #00FF00). No characters or limbs.",
+  "timestamp": 1769595856644
+}
