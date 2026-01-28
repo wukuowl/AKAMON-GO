@@ -1,0 +1,20 @@
+{
+  "name": "Neon-Glitch Mangy",
+  "description": "A feral digital entity that haunts the back alleys of Akamon City. It evolved from discarded pet data and now survives by scavenging corrupted packets, making it highly unpredictable and aggressive toward any intruders entering its territory.",
+  "visualTraits": [
+    "Matted charcoal fur flickering with neon static",
+    "Cybernetic eye glowing with a jagged red light",
+    "A tail that pixelates into darkness when agitated",
+    "Torn ears with glowing binary code scars"
+  ],
+  "stats": {
+    "hp": 145,
+    "pp": 30,
+    "attack": 92,
+    "defense": 55,
+    "evasion": 22,
+    "moves": [
+      "dark_bite_8bit"
+    ]
+  }
+}
