@@ -1,0 +1,19 @@
+{
+  "move_id": "hydro_pump_phys_01",
+  "name": "Hydro Cannon Strike",
+  "type": "Water",
+  "category": "Physical",
+  "power": 110,
+  "accuracy": 80,
+  "pp": 5,
+  "effect": {
+    "status_type": "none",
+    "chance": 0,
+    "duration": 0,
+    "is_volatile": false,
+    "description": "The user condenses a massive volume of water into a solid pillar and slams it into the target with hydraulic force."
+  },
+  "skillVisualPrompt": "A thick, high-pressure pillar of cerulean water erupts horizontally on a green screen #00FF00. The water has a dense, viscous liquid texture with sharp white pixel highlights and dark blue outlines. The animation features a 12-frame linear thrust where the water column maintains a solid, metallic-like surface tension while surging forward.",
+  "sfxPrompt": "A heavy white-noise burst for the initial pressure release followed by a deep, low-frequency sine-wave thud to simulate the physical weight of the water hitting a solid surface.",
+  "timestamp": 1769610241661
+}
