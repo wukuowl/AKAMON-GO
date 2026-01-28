@@ -1,0 +1,19 @@
+{
+  "move_id": "bite",
+  "name": "咬咬",
+  "type": "Dark",
+  "category": "Physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": {
+    "status_type": "Flinch",
+    "chance": 30,
+    "duration": 0,
+    "is_volatile": true,
+    "description": "The user bites the target with sharp fangs. It may cause the target to flinch, skipping their turn."
+  },
+  "skillVisualPrompt": "A pair of large, white, jagged pixelated fangs snapping together vertically in the center of a pure #00FF00 green screen.",
+  "sfxPrompt": "Short, sharp 8-bit crunch sound followed by a low-frequency percussive snap.",
+  "timestamp": 1769605792500
+}
