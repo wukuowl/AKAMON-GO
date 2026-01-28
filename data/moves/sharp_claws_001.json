@@ -1,0 +1,19 @@
+{
+  "move_id": "sharp_claws_001",
+  "name": "鋒利爪",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": {
+    "status_type": "None",
+    "chance": 30,
+    "duration": 0,
+    "is_volatile": true,
+    "description": "Lacerates the target, causing them to lose HP each turn for a short duration."
+  },
+  "skillVisualPrompt": "A single character-sized clawed limb performing a rapid downward diagonal slash followed by an immediate upward back-swipe. The claws are elongated and sharp with a polished chrome finish. The motion is extremely fast with sharp keyframes. Background is solid #00FF00.",
+  "sfxPrompt": "A high-velocity metallic 'shink' sound with a dominant high-frequency friction layer, synchronized with a heavy, wet tearing mid-range texture and a subtle low-end thud to simulate the weight of the strike.",
+  "timestamp": 1769608188455
+}
