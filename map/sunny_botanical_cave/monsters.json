@@ -1,0 +1,9 @@
+{
+  "monsters": [
+    "leaf_sprite",
+    "moss_lurker",
+    "sunflower_golem",
+    "vine_constrictor",
+    "spore_shroom"
+  ]
+}
