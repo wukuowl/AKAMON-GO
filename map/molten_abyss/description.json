@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Abyss Entrance",
+    "narrative": "A jagged crack in the earth reveals a descent into a world of glowing red and suffocating heat.",
+    "imagePrompt": "8-bit pixel art, entrance to a lava cave, glowing red light from below, dark stone walls, retro game style",
+    "id": 0
+  },
+  {
+    "title": "Magma River Bank",
+    "narrative": "A wide stream of liquid fire flows steadily, casting flickering shadows against the basalt walls.",
+    "imagePrompt": "8-bit pixel art, river of lava, glowing orange liquid, dark volcanic rock, 2D platformer aesthetic",
+    "id": 1
+  },
+  {
+    "title": "Obsidian Bridge",
+    "narrative": "A precarious path of volcanic glass spans across a deep pit of bubbling magma.",
+    "imagePrompt": "8-bit pixel art, bridge made of black obsidian, lava pit underneath, heat haze effect, retro gaming",
+    "id": 2
+  },
+  {
+    "title": "Sulfur Mist Vents",
+    "narrative": "Yellowish gas leaks from the ground, obscuring the path with toxic, foul-smelling clouds.",
+    "imagePrompt": "8-bit pixel art, yellow sulfur steam vents, dark red ground, toxic atmosphere, pixelated smoke",
+    "id": 3
+  },
+  {
+    "title": "Crystal Ember Grove",
+    "narrative": "Small, heat-resistant crystals sprout from the ash, glowing with an internal fire.",
+    "imagePrompt": "8-bit pixel art, glowing red crystals, charred ground, magical fire forest, vibrant pixel colors",
+    "id": 4
+  },
+  {
+    "title": "The Ash Plain",
+    "narrative": "A vast stretch of grey soot where the remains of the world above settle and burn.",
+    "imagePrompt": "8-bit pixel art, grey ash desert, red sky, desolate volcanic landscape, retro pixel art",
+    "id": 5
+  },
+  {
+    "title": "Basalt Spires",
+    "narrative": "Huge hexagonal columns rise from the lava like the ribs of a buried giant.",
+    "imagePrompt": "8-bit pixel art, hexagonal basalt pillars, lava background, dramatic shadows, 8-bit scenery",
+    "id": 6
+  },
+  {
+    "title": "Hellfire Geyser",
+    "narrative": "Pressure builds until a pillar of liquid flame erupts high into the cavern ceiling.",
+    "imagePrompt": "8-bit pixel art, lava geyser eruption, bright orange flame, dark cavern, explosive pixel art",
+    "id": 7
+  },
+  {
+    "title": "The Smoldering Gate",
+    "narrative": "An ancient archway carved from rock that never stops glowing with intense heat.",
+    "imagePrompt": "8-bit pixel art, ancient stone gate, glowing red runes, magma cracks, retro RPG dungeon",
+    "id": 8
+  },
+  {
+    "title": "Boiling Mud Pools",
+    "narrative": "Thick, dark mud bubbles and pops, releasing bursts of scalding steam.",
+    "imagePrompt": "8-bit pixel art, bubbling mud pits, grey and brown palette, steam clouds, pixelated liquid",
+    "id": 9
+  },
+  {
+    "title": "Shattered Altar",
+    "narrative": "A ruined place of worship dedicated to the fire lords, now half-sunken in lava.",
+    "imagePrompt": "8-bit pixel art, ruined stone altar, molten lava flowing over steps, ancient ruins, fire theme",
+    "id": 10
+  },
+  {
+    "title": "Cinder Fall",
+    "narrative": "A waterfall of glowing embers instead of water, cascading down from a high ledge.",
+    "imagePrompt": "8-bit pixel art, waterfall of fire, glowing particles, dark cave background, vibrant orange",
+    "id": 11
+  },
+  {
+    "title": "Charred Ribcage",
+    "narrative": "The massive, blackened bones of a prehistoric beast provide a grim tunnel for travelers.",
+    "imagePrompt": "8-bit pixel art, giant dragon skeleton, charred bones, path through ribs, lava glow, retro art",
+    "id": 12
+  },
+  {
+    "title": "The Obsidian Throne",
+    "narrative": "A jagged seat of black glass overlooking a vast lake of molten metal.",
+    "imagePrompt": "8-bit pixel art, dark throne, lava lake background, imposing silhouette, 8-bit villain lair",
+    "id": 13
+  },
+  {
+    "title": "Firestorm Chamber",
+    "narrative": "Violent winds carry sparks and heat, creating a localized storm of pure fire.",
+    "imagePrompt": "8-bit pixel art, fire tornado, swirling sparks, red cave, dynamic pixel motion",
+    "id": 14
+  },
+  {
+    "title": "Hidden Magma Cache",
+    "narrative": "A small alcove filled with treasures that have survived the heat of the abyss.",
+    "imagePrompt": "8-bit pixel art, golden chests in a lava cave, glowing loot, volcanic rock, retro game treasure",
+    "id": 15
+  },
+  {
+    "title": "The Narrow Ridge",
+    "narrative": "A path barely wide enough for one, with bottomless fiery drops on either side.",
+    "imagePrompt": "8-bit pixel art, narrow stone path, lava on both sides, high stakes perspective, pixel art",
+    "id": 16
+  },
+  {
+    "title": "Lava Pump Station",
+    "narrative": "Ancient, rusted machinery hums as it moves molten rock through iron pipes.",
+    "imagePrompt": "8-bit pixel art, industrial lava pipes, steam punk influence, glowing molten metal, pixel machines",
+    "id": 17
+  },
+  {
+    "title": "The Core Pillar",
+    "narrative": "A massive column of solid light and heat that supports the weight of the mountain above.",
+    "imagePrompt": "8-bit pixel art, white-hot pillar of energy, lava surroundings, epic scale, retro game boss room",
+    "id": 18
+  },
+  {
+    "title": "Abyssal Exit",
+    "narrative": "A distant glimpse of cool blue light marks the end of the journey through the flames.",
+    "imagePrompt": "8-bit pixel art, exit from a dark cave, distant blue sky, framing of red rocks, pixel art transition",
+    "id": 19
+  }
+]
