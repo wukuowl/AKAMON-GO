@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Scorched Maw",
+    "narrative": "Heat distorts your vision as you enter the glowing cave.",
+    "imagePrompt": "8-bit pixel art, cave entrance, red and orange glow, scorched earth, dark rocks.",
+    "id": 0
+  },
+  {
+    "title": "Magma Stream Crossing",
+    "narrative": "A river of liquid fire blocks your path.",
+    "imagePrompt": "8-bit pixel art, molten lava river, dark basalt banks, orange glow.",
+    "id": 1
+  },
+  {
+    "title": "Obsidian Spire",
+    "narrative": "A tall black glass rock rises from the magma.",
+    "imagePrompt": "8-bit pixel art, sharp obsidian pillar, lava background, high contrast.",
+    "id": 2
+  },
+  {
+    "title": "Sulfur Steam Geyser",
+    "narrative": "Smelly yellow smoke erupts from the floor.",
+    "imagePrompt": "8-bit pixel art, yellow steam clouds, cracked stone floor, pixel smoke.",
+    "id": 3
+  },
+  {
+    "title": "Basalt Column Path",
+    "narrative": "Hexagonal stones form a natural staircase.",
+    "imagePrompt": "8-bit pixel art, basalt pillars, red lighting, volcanic environment.",
+    "id": 4
+  },
+  {
+    "title": "Molten Waterfall",
+    "narrative": "Lava cascades down a cliff like water.",
+    "imagePrompt": "8-bit pixel art, lava fall, liquid fire, dark cave walls, glowing droplets.",
+    "id": 5
+  },
+  {
+    "title": "Glowing Quartz Vein",
+    "narrative": "Bright crystals illuminate the dark walls.",
+    "imagePrompt": "8-bit pixel art, purple crystals, red rock wall, interior cave lighting.",
+    "id": 6
+  },
+  {
+    "title": "The Heat-Dazed Passage",
+    "narrative": "The air is so hot it feels heavy.",
+    "imagePrompt": "8-bit pixel art, hazy cave corridor, heat wave distortion, dark orange tones.",
+    "id": 7
+  },
+  {
+    "title": "Ash-Laden Ground",
+    "narrative": "A thick layer of grey soot covers everything.",
+    "imagePrompt": "8-bit pixel art, floor covered in ash, footprints, volcanic dust, grey and red.",
+    "id": 8
+  },
+  {
+    "title": "Boiling Magma Bubbles",
+    "narrative": "Large bubbles pop, releasing toxic gas.",
+    "imagePrompt": "8-bit pixel art, lava pit with bubbles, orange and yellow circles, dark rock.",
+    "id": 9
+  },
+  {
+    "title": "Firefly Embers",
+    "narrative": "Tiny sparks dance in the stagnant air.",
+    "imagePrompt": "8-bit pixel art, floating orange pixels, dark cave background, glowing sparks.",
+    "id": 10
+  },
+  {
+    "title": "Jagged Stalactites",
+    "narrative": "Sharp rocks drip with molten stone.",
+    "imagePrompt": "8-bit pixel art, hanging rocks, dripping lava, cave ceiling, red glow.",
+    "id": 11
+  },
+  {
+    "title": "Ancient Smelting Site",
+    "narrative": "An old stone forge left by dwarves.",
+    "imagePrompt": "8-bit pixel art, stone anvil, furnace, glowing embers, abandoned cave.",
+    "id": 12
+  },
+  {
+    "title": "The Heart of Magma",
+    "narrative": "The most intense heat source in the cavern.",
+    "imagePrompt": "8-bit pixel art, bright white and yellow center, liquid fire, overwhelming glow.",
+    "id": 13
+  },
+  {
+    "title": "Calcined Skeleton",
+    "narrative": "Charred remains fused to the wall.",
+    "imagePrompt": "8-bit pixel art, white bones, black rock, burnt aesthetic, volcanic cave.",
+    "id": 14
+  },
+  {
+    "title": "Magma-Carved Runes",
+    "narrative": "Symbols glow with an inner magical fire.",
+    "imagePrompt": "8-bit pixel art, glowing runes on rock, ancient text, red energy.",
+    "id": 15
+  },
+  {
+    "title": "Narrow Squeeze",
+    "narrative": "The walls are hot to the touch.",
+    "imagePrompt": "8-bit pixel art, tight cave passage, red glowing walls, claustrophobic view.",
+    "id": 16
+  },
+  {
+    "title": "Cavern of Echoes",
+    "narrative": "The sounds of bubbling lava repeat.",
+    "imagePrompt": "8-bit pixel art, massive open cave, lava lakes, distant horizon.",
+    "id": 17
+  },
+  {
+    "title": "Iron-Bound Chest",
+    "narrative": "A metal box partially melted.",
+    "imagePrompt": "8-bit pixel art, treasure chest, glowing hot metal, pile of ash.",
+    "id": 18
+  },
+  {
+    "title": "Cool Air Crack",
+    "narrative": "A tiny breeze suggests an exit nearby.",
+    "imagePrompt": "8-bit pixel art, crack in the wall, blue light beam, transition from red to blue.",
+    "id": 19
+  }
+]
