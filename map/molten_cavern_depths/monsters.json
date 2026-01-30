@@ -1,0 +1,9 @@
+{
+  "monsters": [
+    "fire_slime",
+    "lava_golem",
+    "magma_spirit",
+    "obsidian_beetle",
+    "flame_bat"
+  ]
+}
