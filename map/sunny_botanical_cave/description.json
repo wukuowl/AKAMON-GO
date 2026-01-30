@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Sunbeam Entrance",
+    "narrative": "A wide cavern mouth where golden light spills onto a carpet of emerald moss.",
+    "imagePrompt": "8-bit pixel art of a cave entrance with bright sunbeams hitting green mossy ground, retro gaming aesthetic, vibrant colors.",
+    "id": 0
+  },
+  {
+    "title": "Ivy-Clad Walls",
+    "narrative": "The limestone walls are completely hidden behind a curtain of thick, creeping ivy.",
+    "imagePrompt": "8-bit pixel art of cave walls covered in dense green ivy vines, small yellow flowers, pixelated textures.",
+    "id": 1
+  },
+  {
+    "title": "The Glistening Pool",
+    "narrative": "A crystal clear pond reflecting the sky visible through a hole in the cave ceiling.",
+    "imagePrompt": "8-bit pixel art of an underground pond reflecting blue sky, surrounded by ferns and stones, top-down perspective.",
+    "id": 2
+  },
+  {
+    "title": "Giant Mushroom Grove",
+    "narrative": "Massive fungi with glowing caps thrive in the humid, sun-drenched corners of the cave.",
+    "imagePrompt": "8-bit pixel art of oversized colorful mushrooms under a beam of light inside a cave, magical atmosphere.",
+    "id": 3
+  },
+  {
+    "title": "Hanging Vine Swing",
+    "narrative": "Long, sturdy vines hang from the ceiling, swaying gently in the subterranean breeze.",
+    "imagePrompt": "8-bit pixel art of thick green vines hanging from a cave roof, light filtering through leaves, retro platformer style.",
+    "id": 4
+  },
+  {
+    "title": "Prehistoric Fern Path",
+    "narrative": "Ancient ferns grow tall along this narrow path, their fronds damp with morning dew.",
+    "imagePrompt": "8-bit pixel art of a path lined with tall prehistoric ferns, pixelated dew drops, lush green palette.",
+    "id": 5
+  },
+  {
+    "title": "The Solar Altar",
+    "narrative": "A flat stone pedestal perfectly positioned to catch the midday sun.",
+    "imagePrompt": "8-bit pixel art of a stone altar in a cave illuminated by a single vertical shaft of light, mystical vibes.",
+    "id": 6
+  },
+  {
+    "title": "Intertwined Root Bridge",
+    "narrative": "Massive tree roots have grown across a chasm, forming a natural walkway.",
+    "imagePrompt": "8-bit pixel art of a bridge made of thick brown roots and green moss over a dark pit inside a cave.",
+    "id": 7
+  },
+  {
+    "title": "The Pollen Chamber",
+    "narrative": "The air here is thick with golden dust floating in the light like tiny stars.",
+    "imagePrompt": "8-bit pixel art of a cave room filled with floating yellow pixel particles and bright light beams.",
+    "id": 8
+  },
+  {
+    "title": "Hidden Meadow Patch",
+    "narrative": "Against all odds, a small patch of wildflowers blooms where the sun hits the cave floor.",
+    "imagePrompt": "8-bit pixel art of a small patch of grass and wildflowers inside a dark cave, high contrast lighting.",
+    "id": 9
+  },
+  {
+    "title": "Dewy Grotto",
+    "narrative": "Water drips from stalactites onto lush succulent plants growing in the cracks.",
+    "imagePrompt": "8-bit pixel art of cave stalactites dripping onto green succulents, wet stone texture, vibrant pixel art.",
+    "id": 10
+  },
+  {
+    "title": "Giant Lily Pond",
+    "narrative": "An indoor lake filled with lily pads large enough to stand on.",
+    "imagePrompt": "8-bit pixel art of massive green lily pads on blue cave water, sunlight reflecting off the ripples.",
+    "id": 11
+  },
+  {
+    "title": "The Great Ceiling Root",
+    "narrative": "A colossal root from a tree above pierces the cave ceiling, stretching toward the floor.",
+    "imagePrompt": "8-bit pixel art of a massive vertical tree root descending from a cave ceiling, surrounded by light rays.",
+    "id": 12
+  },
+  {
+    "title": "Butterfly Sanctuary",
+    "narrative": "Hundreds of blue butterflies flutter around a cluster of sun-loving orchids.",
+    "imagePrompt": "8-bit pixel art of blue pixel butterflies flying around purple cave orchids, bright and colorful.",
+    "id": 13
+  },
+  {
+    "title": "Crystal Succulent Shelf",
+    "narrative": "Small succulents grow nestled between glowing quartz crystals on a sunlit ledge.",
+    "imagePrompt": "8-bit pixel art of translucent crystals and green plants on a rocky cave shelf, shiny pixel effects.",
+    "id": 14
+  },
+  {
+    "title": "The Verdant Waterfall",
+    "narrative": "A gentle waterfall pours over a moss-covered cliff into a shallow basin.",
+    "imagePrompt": "8-bit pixel art of a small waterfall inside a cave, rocks covered in thick green moss, sparkling water.",
+    "id": 15
+  },
+  {
+    "title": "Thorny Bramble Tunnel",
+    "narrative": "A passage choked with flowering brambles that are as beautiful as they are sharp.",
+    "imagePrompt": "8-bit pixel art of a cave tunnel filled with thorny green bushes and red berries, retro RPG style.",
+    "id": 16
+  },
+  {
+    "title": "Seedling Nursery",
+    "narrative": "A quiet, protected alcove where hundreds of small sprouts are reaching for the light.",
+    "imagePrompt": "8-bit pixel art of many tiny green sprouts in a cave corner, soft light illumination, peaceful atmosphere.",
+    "id": 17
+  },
+  {
+    "title": "Ancient Tree Core",
+    "narrative": "The heart of the cave where a massive ancient trunk reaches all the way to the surface.",
+    "imagePrompt": "8-bit pixel art of a huge tree trunk inside a cave, leaves visible at the top, sunlight pouring down the sides.",
+    "id": 18
+  },
+  {
+    "title": "Overgrown Exit Arch",
+    "narrative": "The way out is framed by a natural stone arch draped in flowering jasmine.",
+    "imagePrompt": "8-bit pixel art of a cave exit looking out into a bright forest, framed by white flowers and vines.",
+    "id": 19
+  }
+]
